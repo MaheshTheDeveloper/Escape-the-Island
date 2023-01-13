@@ -7,3 +7,5 @@ The player must gather resources and use them to build shelter, find food, and c
 As the player progresses, they will encounter more challenging obstacles and puzzles, and they will need to use their wit and resourcefulness to overcome them. The ultimate goal is to find a way to signal for rescue and escape the island.
 
 This game could have a survival or adventure genre, and it could feature beautiful, hand-drawn graphics and an immersive, open-world environment.
+
+## In Progress
